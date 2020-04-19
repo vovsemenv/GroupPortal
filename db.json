@@ -1,0 +1,1097 @@
+{
+  "students": [
+    {
+      "name": "Вова Семенов",
+      "about": "Хорошо учится, старается постоянно узнават ьчто-то новое. Хороший прогаммист и прост оотличный парень",
+      "img": "https://sun9-34.userapi.com/c848732/v848732221/1c503f/fgrb2_fKqSQ.jpg",
+      "id": 0
+    },
+    {
+      "name": "Дима Галеев",
+      "about": "Никогда не откажет в помощи с гумманиталным предеметам. Есть права. В этом семестре вернулся на стипендию",
+      "img": "https://sun9-27.userapi.com/c850036/v850036554/1b8742/o2x9MmK4PG8.jpg",
+      "id": 1
+    },
+    {
+      "name": "Роман Денщиков",
+      "about": "Рома, самый старый студент в нашей группе. Успел поучтися в бауманке, сходить в армию, женится",
+      "img": "https://sun9-8.userapi.com/c846021/v846021651/1b930b/jX1rdFJCg30.jpg",
+      "id": 2
+    }
+  ],
+  "news": [
+    {
+      "title": "СТ повержен",
+      "text": "Все студенты Группы ИВБО-06-17 сдали зачет по дисциплине Сетевые технолгии",
+      "img": "https://sun1-18.userapi.com/c854128/v854128559/222e15/DUtzdsDH698.jpg",
+      "id": 0
+    },
+    {
+      "title": "Мировые звёзды дали восьмичасовой концерт, сидя дома",
+      "text": "И собрали 128 миллионов долларов на борьбу с коронавирусом  От Леди Гаги, Тейлор Свифт и Элтона Джона до Пола Маккартни, Rolling Stones и Билли Айлиш.",
+      "img": "https://leonardo.osnova.io/d7c4815f-871f-4b70-2fe9-5eec69cc165f/-/resize/1400/",
+      "id": 1
+    },
+    {
+      "title": "В ЮАР на безлюдные улицы вышли пингвины ",
+      "text": "Пока люди остаются в своих домах на самоизоляции, а автомобили пылятся в гаражах, безлюдными улицами в Южной Африке гуляют беззаботные пингвины.",
+      "img": "https://leonardo.osnova.io/22ac7dc8-ff49-9619-4e35-5615a19879cc/-/resize/800/",
+      "id": 2
+    },
+    {
+      "title": "В России разработали сервис для удалённой диагностики COVID-19 ",
+      "text": "В России разработали сервис для удалённой диагностики COVID-19. Система сможет с помощью искусственного интеллекта (ИИ) находить признаки болезни на рентгеновских изображениях лёгких.   ",
+      "img": "https://static10.tgstat.ru/channels/_0/62/62fd0f0ec294e522c15e062e2c0f987a.jpg",
+      "id": 3
+    },
+    {
+      "title": "Вову приняли",
+      "text": "Владимира Семенова,который успешно прошел все этапы отбора проняли в RTUITLAB. Новость дополняется",
+      "img": "https://yandex.ru/images/_crpd/VLD7I4X44/022f64o6S/K6RbjzHbA48juXvkBa32akoePENLurBU2YPF2bA-KyiUceRKcvTzMvVznSv_RtHz9QYi3eAytf8b77L7Kdf61x6BX6dM4xKKc_AbqQholmteakkbZ7v1eIDinZHNYjto4XiVE8Lt83PEMshyR0LV_4g",
+      "id": 4
+    }
+  ],
+  "schedules": [
+    {
+      "id": 0,
+      "name": "ИВБО-06-17",
+      "data": [
+        [
+          {
+            "odd": {
+              "name": "Техн. обеспечение АС",
+              "type": 0,
+              "teacher": "Бескин А.Л.",
+              "room": "А-177"
+            },
+            "even": {
+              "name": "Техн. обеспечение АС",
+              "type": 0,
+              "teacher": "Бескин А.Л.",
+              "room": "А-177"
+            }
+          },
+          {
+            "odd": {
+              "name": "Операционные системы",
+              "type": 2,
+              "teacher": "Норица В.М.",
+              "room": "А-424-1"
+            },
+            "even": {
+              "name": "Операционные системы",
+              "type": 1,
+              "teacher": "Норица В.М.",
+              "room": "А-424-1"
+            }
+          },
+          {
+            "odd": {
+              "name": "Техн. обеспечение АС",
+              "type": 1,
+              "teacher": "Бескин А.Л.",
+              "room": "Г-301б"
+            },
+            "even": {
+              "name": "Техн. обеспечение АС",
+              "type": 1,
+              "teacher": "Бескин А.Л.",
+              "room": "Г-301б"
+            }
+          },
+          {
+            "odd": {
+              "name": "7,9,11,15 н. Экон. предприятия",
+              "type": 1,
+              "teacher": "Белоусова И.В.",
+              "room": "А-213м"
+            },
+            "even": {
+              "name": "Операционные системы",
+              "type": 0,
+              "teacher": "Карпов Д.А.",
+              "room": "А-177"
+            }
+          },
+          {
+            "odd": {
+              "name": "Основы сетевых технологий",
+              "type": 0,
+              "teacher": "Тулинов С.В.",
+              "room": "А-17"
+            },
+            "even": {
+              "name": "10,12 н. Гражд. оборона 2,4,6,8 н. Экономика предприятия",
+              "teacher": "Михайлов В.М. Белоусова И.В.",
+              "room": "А-9 А-9"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": "Основы сетевых технологий",
+              "type": 1,
+              "teacher": null,
+              "room": "Д-321"
+            },
+            "even": {
+              "name": "Основы сетевых технологий",
+              "type": 1,
+              "teacher": null,
+              "room": "Д-321"
+            }
+          },
+          {
+            "odd": {
+              "name": "Системы тестирования ПО",
+              "type": 0,
+              "teacher": "Басок Б.М.",
+              "room": "А-214"
+            },
+            "even": {
+              "name": "Системы тестирования ПО",
+              "type": 0,
+              "teacher": "Басок Б.М.",
+              "room": "А-214"
+            }
+          },
+          {
+            "odd": {
+              "name": "Системы тестирования ПО",
+              "type": 1,
+              "teacher": "Басок Б.М.",
+              "room": "Г-301б"
+            },
+            "even": {
+              "name": "Системы тестирования ПО",
+              "type": 2,
+              "teacher": "Басок Б.М.",
+              "room": "Г-301б"
+            }
+          },
+          {
+            "odd": {
+              "name": "ОО анализ и проектир. ПО",
+              "type": 1,
+              "teacher": "Смольянинова В.А.",
+              "room": "Г-301б"
+            },
+            "even": {
+              "name": "ОО анализ и проектир. ПО",
+              "type": 0,
+              "teacher": "Смольянинова В.А.",
+              "room": "А-182"
+            }
+          },
+          {
+            "odd": {
+              "name": "Физ.культура и спорт",
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "Физ.культура и спорт",
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": "Инф. безопасность в ИАС",
+              "type": 0,
+              "teacher": "Уманский С.А.",
+              "room": "База"
+            },
+            "even": {
+              "name": "Инф. безопасность в ИАС",
+              "type": 0,
+              "teacher": "Уманский С.А.",
+              "room": "База"
+            }
+          },
+          {
+            "odd": {
+              "name": "Инф. безопасность в ИАС (1 п/г)",
+              "type": 2,
+              "teacher": "Уманский С.А.",
+              "room": "База"
+            },
+            "even": {
+              "name": "Инф. безопасность в ИАС (2 п/г)",
+              "type": 2,
+              "teacher": "Дрягина А.Д.",
+              "room": "База"
+            }
+          },
+          {
+            "odd": {
+              "name": "1,5,9,13 н. Инф. безопасность в ИАС 3,7,11,15 н. Оценка качества ИАС",
+              "teacher": "Уманский С.А. Кайтукова М.В.",
+              "room": "База"
+            },
+            "even": {
+              "name": "Оценка качества ИАС",
+              "type": 0,
+              "teacher": "Кайтукова М.В.",
+              "room": "База"
+            }
+          },
+          {
+            "odd": {
+              "name": "…………………",
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "………………….",
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": "Физ.культура и спорт",
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            },
+            "even": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            }
+          },
+          {
+            "odd": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            },
+            "even": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            }
+          },
+          {
+            "odd": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            },
+            "even": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            }
+          },
+          {
+            "odd": {
+              "name": "3,5,7 н. Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": "Военная подготовка",
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "6,14 н. ОО анализ и проектир. ПО",
+              "type": 2,
+              "teacher": "Аввакумов Г.Е.",
+              "room": "Г-301б"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "6,14 н. ОО анализ и проектир. ПО",
+              "type": 2,
+              "teacher": "Аввакумов Г.Е.",
+              "room": "Г-301б"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "name": "ИВБО-07-17",
+      "data": [
+        [
+          {
+            "odd": {
+              "name": "Физ.культура и спорт",
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "Физ.культура и спорт",
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": "Методы ИА данных",
+              "type": 1,
+              "teacher": "Гадзаов А.Ф.",
+              "room": "Г-413"
+            },
+            "even": {
+              "name": "Методы ИА данных",
+              "type": 0,
+              "teacher": "Гадзаов А.Ф.",
+              "room": "А-181"
+            }
+          },
+          {
+            "odd": {
+              "name": "Уравнения в ЧП",
+              "type": 0,
+              "teacher": "Лаговский Б.А.",
+              "room": "А-182"
+            },
+            "even": {
+              "name": "Уравнения в ЧП",
+              "type": 0,
+              "teacher": "Лаговский Б.А.",
+              "room": "А-182"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "Уравнения в ЧП",
+              "type": 2,
+              "teacher": "Лаговский Б.А.",
+              "room": "Г-413"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "10,12,14,16 н. Экон. предприятия",
+              "type": 1,
+              "teacher": "Белоусова И.В.",
+              "room": "А-213м"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": "Мат. методы в ИТ",
+              "type": 0,
+              "teacher": "Кузьмин В.И.",
+              "room": "А-5"
+            },
+            "even": {
+              "name": "Мат. методы в ИТ",
+              "type": 0,
+              "teacher": "Кузьмин В.И.",
+              "room": "А-5"
+            }
+          },
+          {
+            "odd": {
+              "name": "Исследование операций",
+              "type": 1,
+              "teacher": "Пронина Е.Н.",
+              "room": "Г-414"
+            },
+            "even": {
+              "name": "Теория оптим. управления",
+              "type": 1,
+              "teacher": "Пронина Е.Н.",
+              "room": "Г-414"
+            }
+          },
+          {
+            "odd": {
+              "name": "Основы сетевых технологий",
+              "type": 1,
+              "teacher": null,
+              "room": "Д-321"
+            },
+            "even": {
+              "name": "Основы сетевых технологий",
+              "type": 1,
+              "teacher": null,
+              "room": "Д-321"
+            }
+          },
+          {
+            "odd": {
+              "name": "11,15 н. Гражд. оборона 1,3,5,7 н. Экономика предприятия",
+              "teacher": "Михайлов В.М. Белоусова И.В.",
+              "room": "А-9 А-9"
+            },
+            "even": {
+              "name": "Мат. методы в ИТ",
+              "type": 1,
+              "teacher": "Кузьмин В.И.",
+              "room": "Г-413"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            },
+            "even": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            }
+          },
+          {
+            "odd": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            },
+            "even": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            }
+          },
+          {
+            "odd": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            },
+            "even": {
+              "name": "Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            }
+          },
+          {
+            "odd": {
+              "name": "3,5,7 н. Практика по ППУ и ОПД",
+              "type": 1,
+              "teacher": null,
+              "room": "каф"
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": "Военная подготовка",
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": "OLAP и др. технологии ООиХД",
+              "type": 0,
+              "teacher": "Митина О.А.",
+              "room": "А-2"
+            },
+            "even": {
+              "name": "OLAP и др. технологии ООиХД",
+              "type": 0,
+              "teacher": "Митина О.А.",
+              "room": "А-2"
+            }
+          },
+          {
+            "odd": {
+              "name": "OLAP и др. технологии ООиХД",
+              "type": 1,
+              "teacher": "Митина О.А.",
+              "room": "А-423"
+            },
+            "even": {
+              "name": "Имитац. моделирование ДС",
+              "type": 1,
+              "teacher": "Гадзаов А.Ф.",
+              "room": "Г-427"
+            }
+          },
+          {
+            "odd": {
+              "name": "Физ.культура и спорт",
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "Имитац. моделирование ДС",
+              "type": 0,
+              "teacher": "Гадзаов А.Ф.",
+              "room": "А-1"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": "Основы сетевых технологий",
+              "type": 0,
+              "teacher": "Тулинов С.В.",
+              "room": "Б-115"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ],
+        [
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": "Теория оптим. управления",
+              "type": 0,
+              "teacher": "Пронина Е.Н.",
+              "room": "А-5"
+            },
+            "even": {
+              "name": "Теория оптим. управления",
+              "type": 0,
+              "teacher": "Пронина Е.Н.",
+              "room": "А-5"
+            }
+          },
+          {
+            "odd": {
+              "name": "Исследование операций",
+              "type": 0,
+              "teacher": "Пронина Е.Н.",
+              "room": "А-5"
+            },
+            "even": {
+              "name": "Исследование операций",
+              "type": 0,
+              "teacher": "Пронина Е.Н.",
+              "room": "А-5"
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          },
+          {
+            "odd": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            },
+            "even": {
+              "name": null,
+              "type": null,
+              "teacher": null,
+              "room": null
+            }
+          }
+        ]
+      ]
+    }
+  ]
+}

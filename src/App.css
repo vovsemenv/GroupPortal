@@ -1,38 +1,78 @@
-.App {
-  text-align: center;
+.card{
+    border-radius: 5px !important;
+    border:2px solid black ;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card-columns:first-child{
+    margin-top: 1em;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card-title{
+    padding: 0 10px;
+    text-align: center;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card-text{
+    padding: 0 5px;
+    text-align: justify
 }
-
-.App-link {
-  color: #61dafb;
+.User-Avatar-Toggle{
+    float: right;
+    object-fit: cover;
+    height: 2em !important;
+    border-radius: 1em;
 }
+.newstext.card-text{
+    padding: 0 1em;
+}
+.newscard{
+    padding: 0 !important;
+}
+.schedule-row{
+    padding: 0 ;
+}
+#groupid{
+    margin-bottom: 1em;
+}
+@media  (max-width: 600px){
+    
+    a.nav-link{
+        padding: 0 !important;
+        padding-top: 10px !important;
+        
+        padding-bottom: 10px !important;
+    }
+    .container.schedule{
+        padding: 0 !important;
+    }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+@media  (max-width: 770px){
+    
+    .jumbotron button{
+        margin-top: 1em;
+        width: 100%
+    }
+}
+.jumbotron button{
+    margin-top: 1em;
+    width: 100%
+}
+.jumbotron{
+    padding-top: 1em !important;
+}
+[contenteditable]:empty:before {
+    display: block;
+    color: #999;
+    content: attr(placeholder);
+}
+.card-img, .card-img-bottom, .card-img-top{
+    object-fit: cover;
+    height: 400px !important;
+}
+.Little-Ava{
+    
+}
+.newstext.card-text{
+    margin-bottom: 1em !important;
+}
+.h5.card-title{
+    margin-top: 1em !important;
 }
